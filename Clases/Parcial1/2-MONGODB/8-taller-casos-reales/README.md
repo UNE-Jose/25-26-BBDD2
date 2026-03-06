@@ -1,4 +1,4 @@
 # Contenido
 
-1. [Introducción Profundizando en explain() y executionStats.](1-introduccion.md)
+1. [Repositorio de Taller.]()
 
